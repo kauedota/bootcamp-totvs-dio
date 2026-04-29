@@ -1,0 +1,16 @@
+# Arquivo gerado automaticamente pelo programa
+tarefas.json
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
