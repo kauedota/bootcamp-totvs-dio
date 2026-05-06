@@ -69,6 +69,7 @@ bootcamp-totvs-dio/
 ## 👨‍💻 Autor
 
 Kauê Dota
+
 Desenvolvido durante o **Bootcamp TOTVS – DIO**
 
 🔗 [LinkedIn](#) | 🐙 [GitHub](#)
