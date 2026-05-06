@@ -18,7 +18,7 @@ O Bootcamp TOTVS é um programa intensivo que combina **Engenharia de Dados**, *
 |---|--------|---------|--------|
 | 1 | Princípios de Python e Versionamento com Git e GitHub | [Gerenciador de Tarefas](./modulo1-python-git/) | ✅ Concluído |
 | 2 | Introdução à Ciência de Dados e Python | [Análise Exploratória de Dados](./modulo2-ciencia-de-dados/) | ✅ Concluído |
-| 3 | Introdução a Banco de Dados Relacionais e ETL | Em breve | ⬜ Pendente |
+| 3 | Introdução a Banco de Dados Relacionais e ETL | [Pipeline ETL com SQLite](./modulo3-banco-dados-etl/) | ✅ Concluído |
 | 4 | Análise de Dados com Excel e Copilot | Em breve | ⬜ Pendente |
 | 5 | Noções de Computação em Nuvem (AWS) | Em breve | ⬜ Pendente |
 | 6 | Fundamentos e Técnicas de Machine Learning | Em breve | ⬜ Pendente |
