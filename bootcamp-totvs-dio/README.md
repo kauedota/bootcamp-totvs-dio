@@ -47,11 +47,13 @@ bootcamp-totvs-dio/
 │   └── README.md
 │
 ├── modulo2-ciencia-de-dados/
-│   └── (em breve)
-│
+│   ├── requirements.txt
+│   ├── analise_exploratoria.py
+│   └── README.md
 ├── modulo3-banco-dados-etl/
-│   └── (em breve)
-│
+│   ├── etl_pipeline.py
+│   ├── queries.sql
+│   └── README.md
 ├── modulo4-excel-copilot/
 │   └── (em breve)
 │
