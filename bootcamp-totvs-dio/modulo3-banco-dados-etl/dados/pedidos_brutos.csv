@@ -1,0 +1,11 @@
+id_pedido,cliente,produto,quantidade,preco_unitario,data_pedido,status
+1,Maria Silva,Notebook,2,3500.00,2024-01-15,concluido
+2,joão santos,Smartphone,1,2200.50,2024-01-16,PENDENTE
+3,ANA OLIVEIRA,Tablet,,1800.00,2024-01-17,concluido
+4,Carlos Lima,Monitor,3,1200.00,2024/01/18,concluido
+5,maria silva,Notebook,1,3500.00,2024-01-19,cancelado
+6,Pedro Costa,Teclado,5,350.00,2024-01-20,CONCLUIDO
+7,,Smartphone,2,2200.50,2024-01-21,pendente
+8,Fernanda Rocha,Tablet,1,1800.00,2024-01-22,concluido
+9,Carlos Lima,Monitor,2,1200.00,2024-01-23,Concluido
+10,Julia Mendes,Notebook,3,3500.00,2024-01-24,concluido

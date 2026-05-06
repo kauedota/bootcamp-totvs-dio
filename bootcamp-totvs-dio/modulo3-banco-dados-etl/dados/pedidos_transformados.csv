@@ -1,0 +1,11 @@
+﻿id_pedido,cliente,produto,quantidade,preco_unitario,data_pedido,status,receita_total,processado_em,ano,mes,dia_semana
+1,Maria Silva,Notebook,2,3500.0,2024-01-15,concluido,7000.0,2026-04-30 09:28:30,2024,1,Monday
+2,João Santos,Smartphone,1,2200.5,2024-01-16,pendente,2200.5,2026-04-30 09:28:30,2024,1,Tuesday
+3,Ana Oliveira,Tablet,1,1800.0,2024-01-17,concluido,1800.0,2026-04-30 09:28:30,2024,1,Wednesday
+4,Carlos Lima,Monitor,3,1200.0,2024-01-18,concluido,3600.0,2026-04-30 09:28:30,2024,1,Thursday
+5,Maria Silva,Notebook,1,3500.0,2024-01-19,cancelado,3500.0,2026-04-30 09:28:30,2024,1,Friday
+6,Pedro Costa,Teclado,5,350.0,2024-01-20,concluido,1750.0,2026-04-30 09:28:30,2024,1,Saturday
+7,Desconhecido,Smartphone,2,2200.5,2024-01-21,pendente,4401.0,2026-04-30 09:28:30,2024,1,Sunday
+8,Fernanda Rocha,Tablet,1,1800.0,2024-01-22,concluido,1800.0,2026-04-30 09:28:30,2024,1,Monday
+9,Carlos Lima,Monitor,2,1200.0,2024-01-23,concluido,2400.0,2026-04-30 09:28:30,2024,1,Tuesday
+10,Julia Mendes,Notebook,3,3500.0,2024-01-24,concluido,10500.0,2026-04-30 09:28:30,2024,1,Wednesday
